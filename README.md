@@ -42,3 +42,4 @@ Italian = `it`
 ![화면 캡처 2022-01-07 174117](https://user-images.githubusercontent.com/87428661/148516821-400e6709-7198-4daf-b212-e6385b15d876.png)
 ### If you want to stop translating, enter `>stop`
 
+# I'm a beginner. There may be inefficient codes.
