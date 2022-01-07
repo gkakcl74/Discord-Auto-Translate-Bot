@@ -1,0 +1,5 @@
+discord.py
+jsons
+googletrans
+requests
+asyncio
