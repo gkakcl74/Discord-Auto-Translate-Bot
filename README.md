@@ -27,6 +27,7 @@ Thai = `th`
 Russian = `ru`   
 Italian = `it`   
 
+##### If you enter the wrong language code, the translator turns off! (잘못된 언어코드를 입력하면 번역기가 자동으로 꺼집니다.)
 
 # :confused:how to use???
 #### Commands
