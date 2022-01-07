@@ -28,7 +28,10 @@ Russian = `ru`
 Italian = `it`   
 
 ##### If you enter the wrong language code, the translator turns off! (잘못된 언어코드를 입력하면 번역기가 자동으로 꺼집니다.)
-
+# :warning:precautions   
+If the sentence is too long, An error occurs.   
+##### Use it at the right intervals.   
+##### Any error. You will be back when you stop and restart.   
 # :confused:how to use???
 #### Commands
 `translation`, `translate`, `trans`, `tl`, `t`, `stop`, `info`
