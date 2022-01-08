@@ -4,7 +4,6 @@ import discord
 import time
 import difflib
 import asyncio
-import googletrans
 import os
 import sys
 import json ,pprint
