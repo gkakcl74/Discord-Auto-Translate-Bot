@@ -79,9 +79,8 @@ async def translation(ctx, tonumber):
 
             if sentence.content is not None:
 
-                #언어감지 예제
                 data = "query=" + sentence.content
-                url = "https://openapi.naver.com/v1/papago/detectLangs" #언어감지 api url
+                url = "https://openapi.naver.com/v1/papago/detectLangs"
                 request = urllib.request.Request(url)
                 request.add_header("X-Naver-Client-Id",client_id)
                 request.add_header("X-Naver-Client-Secret",client_secret)
