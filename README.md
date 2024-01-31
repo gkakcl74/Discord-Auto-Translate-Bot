@@ -6,7 +6,7 @@ If you want to use it, invite me! https://url.kr/p91kb4
 ##### 영어가 잔뜩있어 외국에서 만든것같지만 국산입니다.    
 ##### pause for a while / 현재 봇은 작동되고있지 않습니다
 
-# :kissing_closed_eyes:The language you can apply for.
+# :kissing_closed_eyes:Available Languages
 #### :flags:Language codes
 
 korean = `ko`   
